@@ -1,0 +1,3441 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Volkhov:700");
+* {
+  box-sizing: border-box;
+}
+.border-1px-oil {
+  border: 1px solid var(--oil);
+}
+.border-class-1 {
+  border: 1px solid rgba(242, 242, 242, 1);
+}
+.border-class-2 {
+  border: 2px solid rgba(0, 0, 0, 0.1);
+}
+.desktop-3 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  height: 1686px;
+  overflow: hidden;
+  width: 1440px;
+}
+.desktop-3 .add-a-comment {
+  color: rgba(166, 166, 166, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 11px;
+  font-weight: 700;
+  height: 16px;
+  left: 347px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 298px;
+  width: 98px;
+}
+.desktop-3 .address {
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 82px;
+}
+.desktop-3 .address-1 {
+  height: 25px;
+  left: 64px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 147px;
+}
+.desktop-3 .address-2 {
+  height: 29px;
+  left: 342px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 101px;
+}
+.desktop-3 .address-3 {
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 83px;
+}
+.desktop-3 .address-4 {
+  height: 25px;
+  left: 70px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 147px;
+}
+.desktop-3 .address-5 {
+  height: 31px;
+  letter-spacing: 0px;
+  margin-left: 5px;
+  min-height: 31px;
+  text-align: center;
+  width: 106px;
+}
+.desktop-3 .address-6 {
+  height: 14px;
+  letter-spacing: 0px;
+  margin-top: 2px;
+  min-height: 14px;
+  text-align: center;
+  width: 64px;
+}
+.desktop-3 .address-7 {
+  align-self: center;
+  height: 20px;
+  letter-spacing: 0px;
+  margin-bottom: 1px;
+  margin-left: 19px;
+  min-height: 20px;
+  text-align: center;
+  width: 113px;
+}
+.desktop-3 .address-8 {
+  height: 23px;
+  letter-spacing: 0px;
+  margin-left: 40px;
+  min-height: 23px;
+  text-align: center;
+  width: 101px;
+}
+.desktop-3 .all-header {
+  align-items: center;
+  background-color: var(--black-haze);
+  box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.25);
+  display: flex;
+  height: 70px;
+  min-width: 1440px;
+  padding: 10px 0;
+}
+.desktop-3 .all-header-1 {
+  align-items: flex-end;
+  background-color: var(--black-haze);
+  box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.25);
+  display: flex;
+  height: 70px;
+  min-width: 1444px;
+  padding: 10px 6px;
+}
+.desktop-3 .amazon-react {
+  height: 24px;
+  letter-spacing: 0px;
+  margin-bottom: 10.9px;
+  margin-left: 5px;
+  min-height: 24px;
+  text-align: center;
+  width: 150px;
+}
+.desktop-3 .apple-bootstrap {
+  height: 27px;
+  letter-spacing: 0px;
+  margin-bottom: 12.51px;
+  margin-left: 9px;
+  min-height: 27px;
+  text-align: center;
+  width: 165px;
+}
+.desktop-3 .apple-react {
+  height: 27px;
+  letter-spacing: 0px;
+  margin-left: 9px;
+  margin-top: 9px;
+  min-height: 27px;
+  text-align: center;
+  width: 123px;
+}
+.desktop-3 .art {
+  height: 17px;
+  left: 17px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 31px;
+}
+.desktop-3 .auto-flex {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 179px;
+  min-height: 1611px;
+  width: 1440px;
+}
+.desktop-3 .auto-flex1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-top: 70px;
+  min-height: 1760px;
+  width: 1579px;
+}
+.desktop-3 .auto-flex2 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 103px;
+  margin-top: 12px;
+  min-width: 698px;
+}
+.desktop-3 .auto-flex2-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 595px;
+  width: 272px;
+}
+.desktop-3 .auto-flex2-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 189px;
+  width: 333px;
+}
+.desktop-3 .auto-flex2-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4px;
+  min-width: 6px;
+}
+.desktop-3 .auto-flex3 {
+  align-items: flex-start;
+  display: flex;
+  height: 224px;
+  margin-left: 103px;
+  margin-top: 35px;
+  min-width: 690px;
+}
+.desktop-3 .auto-flex3-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 73px;
+  margin-top: 5.12px;
+  min-height: 570px;
+  width: 70px;
+}
+.desktop-3 .auto-flex3-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 189px;
+  margin-left: 46px;
+  margin-top: 63px;
+  min-width: 444px;
+}
+.desktop-3 .auto-flex4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 109px;
+  min-height: 66px;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.desktop-3 .auto-flex4-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 482px;
+  width: 213px;
+}
+.desktop-3 .auto-flex5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 29px;
+  min-height: 480px;
+  width: 215px;
+}
+.desktop-3 .auto-flex6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 22px;
+  min-height: 480px;
+  width: 222px;
+}
+.desktop-3 .auto-flex7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 3px;
+  min-height: 176px;
+  width: 361px;
+}
+.desktop-3 .auto-flex8 {
+  align-items: flex-start;
+  display: flex;
+  height: 176px;
+  margin-left: 48px;
+  margin-top: 70px;
+  min-width: 434px;
+}
+.desktop-3 .berana-fashion {
+  height: 37px;
+  left: 78px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 151px;
+}
+.desktop-3 .berana40 {
+  color: rgba(128, 118, 118, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 143px;
+}
+.desktop-3 .berana40-1 {
+  color: rgba(18, 4, 4, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  height: 14px;
+  left: 9px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 112px;
+}
+.desktop-3 .blogger {
+  height: 37px;
+  left: 64px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 128px;
+}
+.desktop-3 .blogger-1 {
+  height: 37px;
+  left: 8px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 60px;
+}
+.desktop-3 .blogger-2 {
+  height: 29px;
+  left: 13px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 59px;
+}
+.desktop-3 .book {
+  height: 16px;
+  left: 13px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  width: 43px;
+}
+.desktop-3 .book-1 {
+  color: rgba(128, 118, 118, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0px;
+  min-height: 29px;
+  text-align: center;
+  width: 96px;
+}
+.desktop-3 .book-editpro-setting {
+  align-items: center;
+  display: flex;
+  min-width: 272px;
+}
+.desktop-3 .books {
+  color: var(--black);
+  font-family: "Volkhov", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  height: 28px;
+  left: 58px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 81px;
+}
+.desktop-3 .books-1 {
+  height: 37px;
+  left: 8px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 48px;
+}
+.desktop-3 .bottom-input {
+  align-items: center;
+  display: flex;
+  height: 23px;
+  left: 57px;
+  min-width: 566px;
+  position: absolute;
+  top: 548px;
+}
+.desktop-3 .bottom-input-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  left: 307px;
+  min-width: 330px;
+  position: absolute;
+  top: 211px;
+}
+.desktop-3 .code {
+  color: rgba(128, 118, 118, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 36px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 116px;
+}
+.desktop-3 .code-1 {
+  height: 29px;
+  left: 11px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 42px;
+}
+.desktop-3 .code-editpro-setting {
+  align-items: center;
+  display: flex;
+  min-width: 295px;
+}
+.desktop-3 .cs {
+  height: 14px;
+  left: 23px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 20px;
+}
+.desktop-3 .date {
+  color: rgba(167, 161, 161, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  height: 16px;
+  left: 317px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 257px;
+  width: 85px;
+}
+.desktop-3 .date-1 {
+  color: rgba(157, 152, 152, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 26px;
+  left: 354px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 168px;
+  width: 27px;
+}
+.desktop-3 .desktop-2 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  margin-left: -1619px;
+  margin-top: 70px;
+  width: 1440px;
+}
+.desktop-3 .desktop-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  width: 1440px;
+}
+.desktop-3 .desktop-5 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 760px;
+  margin-left: 74px;
+  margin-top: 153px;
+  overflow: hidden;
+  width: 1440px;
+}
+.desktop-3 .desktop-6 {
+  align-items: flex-start;
+  background-color: rgba(17, 4, 4, 1);
+  display: flex;
+  height: 577px;
+  margin-top: 257px;
+  padding: 35px 0;
+  width: 781px;
+}
+.desktop-3 .disc {
+  height: 132px;
+  left: 9px;
+  position: absolute;
+  top: 28px;
+  width: 127px;
+}
+.desktop-3 .disc-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 111px;
+  left: 0px;
+  min-width: 139px;
+  position: absolute;
+  top: 21px;
+}
+.desktop-3 .disc-for-img {
+  align-items: flex-start;
+  display: flex;
+  height: 54px;
+  left: 0px;
+  min-width: 608px;
+  position: absolute;
+  top: 593px;
+}
+.desktop-3 .edit-profile {
+  height: 24px;
+  left: 107px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 119px;
+}
+.desktop-3 .edit-profile-1 {
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 120px;
+}
+.desktop-3 .edit-profile-2 {
+  height: 30px;
+  left: 88px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 146px;
+}
+.desktop-3 .ellipse- {
+  height: 66px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+.desktop-3 .ellipse-10 {
+  height: 73px;
+  left: 0px;
+  position: absolute;
+  top: 7px;
+  width: 72px;
+}
+.desktop-3 .ellipse-10-1 {
+  height: 50px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 48px;
+}
+.desktop-3 .ellipse-11 {
+  height: 29px;
+  left: 836px;
+  position: absolute;
+  top: 30px;
+  width: 30px;
+}
+.desktop-3 .ellipse-11-1 {
+  height: 50px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 50px;
+}
+.desktop-3 .ellipse-11-2 {
+  height: 29px;
+  margin-left: 28px;
+  margin-top: 9px;
+  width: 30px;
+}
+.desktop-3 .ellipse-11-3 {
+  height: 29px;
+  margin-left: 28px;
+  width: 30px;
+}
+.desktop-3 .ellipse-12 {
+  height: 51px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 49px;
+}
+.desktop-3 .ellipse-12-1 {
+  height: 70px;
+  width: 70px;
+}
+.desktop-3 .ellipse-13 {
+  height: 50px;
+  object-fit: cover;
+  width: 50px;
+}
+.desktop-3 .ellipse-13-1 {
+  height: 52px;
+  width: 50px;
+}
+.desktop-3 .ellipse-13-2 {
+  height: 66px;
+  object-fit: cover;
+  width: 62px;
+}
+.desktop-3 .ellipse-13-3 {
+  height: 59px;
+  object-fit: cover;
+  width: 62px;
+}
+.desktop-3 .ellipse-13-4 {
+  height: 64px;
+  object-fit: cover;
+  width: 62px;
+}
+.desktop-3 .ellipse-13-5 {
+  height: 63px;
+  object-fit: cover;
+  width: 62px;
+}
+.desktop-3 .ellipse-13-6 {
+  height: 60px;
+  object-fit: cover;
+  width: 62px;
+}
+.desktop-3 .ellipse-13-7 {
+  height: 18px;
+  margin-top: -0.16px;
+  object-fit: cover;
+  width: 20px;
+}
+.desktop-3 .ellipse-13-8 {
+  height: 23px;
+  object-fit: cover;
+  width: 22px;
+}
+.desktop-3 .ellipse-13-9 {
+  height: 25px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 25px;
+}
+.desktop-3 .ellipse-14 {
+  height: 65px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 65px;
+}
+.desktop-3 .ellipse-15 {
+  height: 65px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+.desktop-3 .ellipse-17 {
+  height: 66px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 63px;
+}
+.desktop-3 .ellipse-18 {
+  height: 66px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 65px;
+}
+.desktop-3 .ellipse-19 {
+  height: 65px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 63px;
+}
+.desktop-3 .ellipse-2 {
+  height: 7px;
+  margin-left: 2px;
+  width: 7px;
+}
+.desktop-3 .ellipse-2-1 {
+  height: 9px;
+  margin-top: -0.31px;
+  width: 8px;
+}
+.desktop-3 .ellipse-21 {
+  height: 66px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.desktop-3 .ellipse-23 {
+  height: 7px;
+  width: 7px;
+}
+.desktop-3 .ellipse-28 {
+  height: 9px;
+  margin-left: 1px;
+  margin-top: -0.31px;
+  width: 8px;
+}
+.desktop-3 .ellipse-3 {
+  height: 29px;
+  margin-left: 28px;
+  margin-top: 2px;
+  width: 30px;
+}
+.desktop-3 .ellipse-3-1 {
+  height: 4px;
+  width: 6px;
+}
+.desktop-3 .ellipse-30 {
+  height: 19px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 1340px;
+  width: 20px;
+}
+.desktop-3 .ellipse-35 {
+  height: 1px;
+  width: 1px;
+}
+.desktop-3 .ellipse-36 {
+  height: 1px;
+  margin-left: 3px;
+  width: 2px;
+}
+.desktop-3 .ellipse-4 {
+  height: 50px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 49px;
+}
+.desktop-3 .ellipse-5 {
+  height: 50px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 51px;
+}
+.desktop-3 .ellipse-6 {
+  height: 51px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 50px;
+}
+.desktop-3 .ellipse-7 {
+  height: 51px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 48px;
+}
+.desktop-3 .ellipse-8 {
+  height: 51px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 49px;
+}
+.desktop-3 .ellipse-9 {
+  height: 49px;
+  left: 381px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 50px;
+}
+.desktop-3 .ethiopia {
+  height: 37px;
+  left: 64px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 128px;
+}
+.desktop-3 .ethiopia-1 {
+  height: 37px;
+  left: 8px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 65px;
+}
+.desktop-3 .ethiopia-2 {
+  height: 29px;
+  left: 4px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 80px;
+}
+.desktop-3 .fashion {
+  height: 24px;
+  left: 8px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 53px;
+  width: 54px;
+}
+.desktop-3 .fashion-1 {
+  height: 27px;
+  letter-spacing: 0px;
+  margin-bottom: 1.32px;
+  margin-left: 1px;
+  min-height: 27px;
+  text-align: center;
+  width: 85px;
+}
+.desktop-3 .find-people {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  left: 1017px;
+  min-width: 30px;
+  padding: 3.9px 5.2px;
+  position: absolute;
+  top: 25px;
+}
+.desktop-3 .find-people-1 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  left: 719px;
+  min-width: 30px;
+  padding: 3.9px 5.2px;
+  position: absolute;
+  top: 30px;
+}
+.desktop-3 .find-people-2 {
+  left: unset;
+  margin-left: 33px;
+  margin-top: 2px;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .find-people-3 {
+  left: unset;
+  margin-left: 33px;
+  margin-top: 9px;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .find-people-4 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  margin-left: 33px;
+  min-width: 30px;
+  padding: 3.9px 5.2px;
+}
+.desktop-3 .find-people2 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  min-width: 18px;
+  transform: rotate(30.31deg);
+}
+.desktop-3 .first-profile-name {
+  align-items: center;
+  display: flex;
+  height: 56px;
+  left: 66px;
+  min-width: 539px;
+  position: absolute;
+  top: 63px;
+}
+.desktop-3 .flag {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  display: flex;
+  height: 7px;
+  left: 164px;
+  min-width: 11px;
+  position: absolute;
+  top: 62px;
+}
+.desktop-3 .flag-1 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  display: flex;
+  height: 7px;
+  left: 84px;
+  min-width: 11px;
+  position: absolute;
+  top: 64px;
+}
+.desktop-3 .flag-2 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  display: flex;
+  height: 6px;
+  left: 100px;
+  min-width: 8px;
+  position: absolute;
+  top: 57px;
+}
+.desktop-3 .follow {
+  height: 52px;
+  letter-spacing: 0px;
+  margin-left: 1px;
+  margin-top: 20px;
+  min-height: 52px;
+  text-align: center;
+  width: 68px;
+}
+.desktop-3 .follow-1 {
+  height: 53px;
+  letter-spacing: 0px;
+  margin-left: 1px;
+  margin-top: 44px;
+  min-height: 53px;
+  text-align: center;
+  width: 68px;
+}
+.desktop-3 .follow-2 {
+  height: 52px;
+  letter-spacing: 0px;
+  margin-left: 1px;
+  margin-top: 72px;
+  min-height: 52px;
+  text-align: center;
+  width: 68px;
+}
+.desktop-3 .follow-3 {
+  height: 52px;
+  letter-spacing: 0px;
+  margin-left: 1px;
+  margin-top: 77px;
+  min-height: 52px;
+  text-align: center;
+  width: 68px;
+}
+.desktop-3 .followed-by-ux-1 {
+  height: 52px;
+  left: 78px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 181px;
+}
+.desktop-3 .follower-pro-img {
+  height: 21px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 578px;
+  width: 20px;
+}
+.desktop-3 .follows-you {
+  height: 52px;
+  left: 748px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 220px;
+  width: 120px;
+}
+.desktop-3 .graphic-designer {
+  height: 37px;
+  left: 29px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+  width: 259px;
+}
+.desktop-3 .graphic-designer-1 {
+  font-family: "Volkhov", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  height: 37px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 129px;
+}
+.desktop-3 .graphic-designer-2 {
+  height: 28px;
+  left: 4px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 137px;
+}
+.desktop-3 .h-img1 {
+  align-items: flex-start;
+  display: flex;
+  height: 87px;
+  left: 15px;
+  min-width: 58px;
+  position: absolute;
+  top: 8px;
+}
+.desktop-3 .h-img2 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  left: 84px;
+  min-width: 61px;
+  position: absolute;
+  top: 8px;
+}
+.desktop-3 .h-img3 {
+  align-items: flex-start;
+  display: flex;
+  height: 86px;
+  left: 151px;
+  min-width: 60px;
+  position: absolute;
+  top: 7px;
+}
+.desktop-3 .h-img4 {
+  align-items: flex-start;
+  display: flex;
+  height: 75px;
+  left: 226px;
+  min-width: 56px;
+  position: absolute;
+  top: 7px;
+}
+.desktop-3 .h-img5 {
+  align-items: flex-start;
+  display: flex;
+  height: 73px;
+  left: 302px;
+  min-width: 58px;
+  position: absolute;
+  top: 8px;
+}
+.desktop-3 .h-img6 {
+  align-items: flex-start;
+  display: flex;
+  height: 73px;
+  left: 380px;
+  min-width: 57px;
+  position: absolute;
+  top: 8px;
+}
+.desktop-3 .h-img7 {
+  align-items: flex-start;
+  display: flex;
+  height: 76px;
+  left: 451px;
+  min-width: 60px;
+  position: absolute;
+  top: 8px;
+}
+.desktop-3 .h-img8 {
+  align-items: flex-start;
+  display: flex;
+  height: 79px;
+  left: 525px;
+  min-width: 59px;
+  position: absolute;
+  top: 8px;
+}
+.desktop-3 .habesha {
+  height: 25px;
+  left: 3px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 64px;
+}
+.desktop-3 .habesha-1 {
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 71px;
+}
+.desktop-3 .habesha-2 {
+  height: 26px;
+  left: 77px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 74px;
+}
+.desktop-3 .habeshakemis {
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 108px;
+}
+.desktop-3 .header-btn {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 4px;
+  margin-left: 85px;
+  min-width: 274px;
+}
+.desktop-3 .header-logo {
+  align-items: center;
+  background-color: var(--black-haze);
+  box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.25);
+  display: flex;
+  height: 71px;
+  min-width: 1440px;
+  padding: 0 51px;
+}
+.desktop-3 .header-search-box {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 293px;
+  min-width: 191px;
+  position: absolute;
+  top: 25px;
+}
+.desktop-3 .header-search-box-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 1px;
+  margin-left: 95px;
+  min-width: 243px;
+}
+.desktop-3 .header-search-box-2 {
+  align-self: flex-end;
+  height: unset;
+  left: unset;
+  margin-bottom: 3px;
+  margin-left: 91px;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .header-search-box-3 {
+  height: unset;
+  left: unset;
+  margin-bottom: 2px;
+  margin-left: 85px;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .heart {
+  align-items: flex-end;
+  display: flex;
+  height: 20px;
+  margin-top: 0.56px;
+  overflow: hidden;
+  padding: 0.8px 0;
+  width: 21px;
+}
+.desktop-3 .heart-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 22px;
+  overflow: hidden;
+  padding: 1.2px 0;
+  width: 21px;
+}
+.desktop-3 .heart-2 {
+  align-items: flex-end;
+  display: flex;
+  overflow: hidden;
+  padding: 0.1px 0;
+  width: 18px;
+}
+.desktop-3 .home {
+  align-items: flex-end;
+  display: flex;
+  height: 29px;
+  left: 890px;
+  padding: 1px 3px;
+  position: absolute;
+  top: 25px;
+  width: 32px;
+}
+.desktop-3 .home-1 {
+  height: 29px;
+  left: 592px;
+  position: absolute;
+  top: 30px;
+  width: 32px;
+}
+.desktop-3 .home-2 {
+  align-items: flex-end;
+  background-color: rgba(9, 0, 0, 1);
+  display: flex;
+  height: 29px;
+  margin-left: 59px;
+  margin-top: 2px;
+  padding: 1px 3px;
+  width: 32px;
+}
+.desktop-3 .home-3 {
+  left: unset;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .igtv {
+  height: 29px;
+  left: 349px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 31px;
+}
+.desktop-3 .igtv-1 {
+  align-self: flex-start;
+  height: 29px;
+  letter-spacing: 0px;
+  margin-left: 7px;
+  min-height: 29px;
+  text-align: center;
+  width: 32px;
+}
+.desktop-3 .igtv-2 {
+  align-self: flex-end;
+  height: 23px;
+  letter-spacing: 0px;
+  margin-left: 4px;
+  min-height: 23px;
+  text-align: center;
+  width: 31px;
+}
+.desktop-3 .imoje {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 313px;
+  min-height: 10px;
+  padding: 1px 0;
+  position: absolute;
+  top: 303px;
+  width: 14px;
+}
+.desktop-3 .insta-logo {
+  height: 30px;
+  width: 210px;
+}
+.desktop-3 .keneyat-felesefena {
+  color: rgba(95, 78, 78, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 213px;
+}
+.desktop-3 .kimora-lee {
+  color: rgba(20, 2, 2, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  height: 33px;
+  left: 50px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 150px;
+}
+.desktop-3 .larg-img {
+  height: 385px;
+  width: 612px;
+}
+.desktop-3 .like-by-people {
+  color: transparent;
+  font-family: "Volkhov", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  left: 84px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 572px;
+  width: 322px;
+}
+.desktop-3 .like-by-people-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 313px;
+  min-width: 194px;
+  position: absolute;
+  top: 235px;
+}
+.desktop-3 .line-1 {
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 700px;
+}
+.desktop-3 .line-1-1 {
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 703px;
+}
+.desktop-3 .line-1-2 {
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 538px;
+}
+.desktop-3 .line-10 {
+  height: 3px;
+  left: 301px;
+  position: absolute;
+  top: 289px;
+  width: 353px;
+}
+.desktop-3 .line-2 {
+  height: 9px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.desktop-3 .line-2-1 {
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.desktop-3 .line-3 {
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+.desktop-3 .line-3-1 {
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+.desktop-3 .line-4 {
+  height: 9px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.desktop-3 .line-4-1 {
+  height: 11px;
+  left: 8px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.desktop-3 .line-5 {
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 6px;
+  width: 9px;
+}
+.desktop-3 .line-5-1 {
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+.desktop-3 .line-6 {
+  height: 9px;
+  left: 3px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.desktop-3 .line-6-1 {
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.desktop-3 .line-7 {
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 9px;
+}
+.desktop-3 .line-7-1 {
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 12px;
+}
+.desktop-3 .line-8 {
+  height: 1px;
+  left: 300px;
+  position: absolute;
+  top: 48px;
+  width: 353px;
+}
+.desktop-3 .line-9 {
+  height: 2px;
+  left: 300px;
+  position: absolute;
+  top: 207px;
+  width: 354px;
+}
+.desktop-3 .message {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  left: 954px;
+  min-width: 30px;
+  padding: 0 0.8px;
+  position: absolute;
+  top: 25px;
+}
+.desktop-3 .message-1 {
+  left: 656px;
+  top: 30px;
+}
+.desktop-3 .message-2 {
+  left: unset;
+  margin-left: 32px;
+  margin-top: 2px;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .message-3 {
+  left: unset;
+  margin-left: 35px;
+  margin-top: 9px;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .message-4 {
+  left: unset;
+  margin-left: 32px;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .message-circle {
+  align-items: flex-end;
+  display: flex;
+  height: 20px;
+  margin-bottom: 0.9px;
+  margin-left: 9px;
+  padding: 0.9px 0.9px;
+  width: 21px;
+}
+.desktop-3 .message-circle-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-left: 8px;
+  padding: 1.3px 1.4px;
+  width: 21px;
+}
+.desktop-3 .mid-c-img {
+  align-items: flex-end;
+  display: flex;
+  height: 56px;
+  justify-content: center;
+  left: 0px;
+  min-width: 58px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .mid-c-img-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 58px;
+  justify-content: center;
+  left: 0px;
+  min-width: 58px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .mid-c-img-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 75px;
+  justify-content: center;
+  min-width: 72px;
+}
+.desktop-3 .mid-c-img-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 66px;
+  justify-content: center;
+  min-width: 72px;
+}
+.desktop-3 .mid-c-img-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  justify-content: center;
+  min-width: 72px;
+}
+.desktop-3 .mid-c-img-5 {
+  align-items: flex-end;
+  display: flex;
+  height: 71px;
+  justify-content: center;
+  min-width: 72px;
+}
+.desktop-3 .mid-c-img-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 68px;
+  justify-content: center;
+  min-width: 72px;
+}
+.desktop-3 .mid-c-img-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 25px;
+  justify-content: center;
+  left: 0px;
+  min-width: 25px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .net-dot {
+  align-items: flex-start;
+  display: flex;
+  height: 4px;
+  justify-content: flex-end;
+  left: 622px;
+  min-width: 18px;
+  position: absolute;
+  top: 13px;
+}
+.desktop-3 .netflix-react {
+  height: 27px;
+  letter-spacing: 0px;
+  margin-left: 13px;
+  margin-top: 7px;
+  min-height: 27px;
+  text-align: center;
+  width: 137px;
+}
+.desktop-3 .new-to-instagram {
+  height: 52px;
+  left: 82px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 180px;
+}
+.desktop-3 .new-to-instagram-1 {
+  height: 52px;
+  left: 82px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 181px;
+}
+.desktop-3 .overlap-group {
+  height: 1431px;
+  left: 0px;
+  position: absolute;
+  top: 59px;
+  width: 1118px;
+}
+.desktop-3 .overlap-group-1 {
+  height: 34px;
+  margin-top: -3.47px;
+  position: relative;
+  width: 36px;
+}
+.desktop-3 .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--ebb);
+  display: flex;
+  height: 32px;
+  min-width: 189px;
+  padding: 8px 36px;
+}
+.desktop-3 .overlap-group-3 {
+  height: 13px;
+  position: relative;
+  width: 14px;
+}
+.desktop-3 .overlap-group-4 {
+  height: 12px;
+  margin-top: -0.63px;
+  position: relative;
+  width: 12px;
+}
+.desktop-3 .overlap-group1 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 27px;
+  min-width: 26px;
+  padding: 0 8px;
+}
+.desktop-3 .overlap-group1-1 {
+  height: 7px;
+  position: relative;
+  width: 11px;
+}
+.desktop-3 .overlap-group1-10 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 84px;
+  margin-bottom: -8.62px;
+  min-width: 81px;
+  padding: 5px 9.1px;
+}
+.desktop-3 .overlap-group1-11 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 75px;
+  margin-bottom: -8.32px;
+  min-width: 81px;
+  padding: 4px 9.1px;
+}
+.desktop-3 .overlap-group1-12 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  margin-bottom: -8px;
+  min-width: 81px;
+  padding: 4px 9.1px;
+}
+.desktop-3 .overlap-group1-13 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 79px;
+  margin-bottom: -8px;
+  min-width: 81px;
+  padding: 4px 9.1px;
+}
+.desktop-3 .overlap-group1-14 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 76px;
+  margin-bottom: -8px;
+  min-width: 81px;
+  padding: 4px 9.1px;
+}
+.desktop-3 .overlap-group1-15 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 27px;
+  margin-left: 85px;
+  margin-top: 9.04px;
+  min-width: 26px;
+  padding: 0 8px;
+}
+.desktop-3 .overlap-group1-16 {
+  height: 24px;
+  margin-bottom: -0px;
+  position: relative;
+  width: 24px;
+}
+.desktop-3 .overlap-group1-17 {
+  height: 25px;
+  position: relative;
+  width: 217px;
+}
+.desktop-3 .overlap-group1-18 {
+  height: 11px;
+  margin-bottom: 4.35px;
+  position: relative;
+  width: 12px;
+}
+.desktop-3 .overlap-group1-19 {
+  height: 16px;
+  margin-top: -0.59px;
+  position: relative;
+  width: 17px;
+}
+.desktop-3 .overlap-group1-2 {
+  height: 11px;
+  margin-bottom: 0.35px;
+  position: relative;
+  width: 12px;
+}
+.desktop-3 .overlap-group1-20 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 34px;
+  margin-bottom: -8.5px;
+  min-width: 34px;
+  padding: 1.5px 5.9px;
+}
+.desktop-3 .overlap-group1-21 {
+  height: 30px;
+  margin-bottom: -0px;
+  position: relative;
+  width: 30px;
+}
+.desktop-3 .overlap-group1-22 {
+  height: 111px;
+  position: relative;
+  width: 141px;
+}
+.desktop-3 .overlap-group1-23 {
+  height: 9px;
+  margin-bottom: 1.51px;
+  position: relative;
+  width: 9px;
+}
+.desktop-3 .overlap-group1-3 {
+  align-items: flex-start;
+  background-color: var(--ebb);
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  min-width: 241px;
+  padding: 8.2px 64px;
+}
+.desktop-3 .overlap-group1-4 {
+  height: 87px;
+  margin-left: -4px;
+  margin-top: -0.09px;
+  position: relative;
+  width: 65px;
+}
+.desktop-3 .overlap-group1-5 {
+  height: 54px;
+  position: relative;
+  width: 610px;
+}
+.desktop-3 .overlap-group1-6 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 64px;
+  margin-bottom: -8px;
+  min-width: 66px;
+  padding: 3px 7.7px;
+}
+.desktop-3 .overlap-group1-7 {
+  height: 19px;
+  position: relative;
+  width: 21px;
+}
+.desktop-3 .overlap-group1-8 {
+  height: 21px;
+  position: relative;
+  width: 21px;
+}
+.desktop-3 .overlap-group1-9 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 67px;
+  margin-bottom: -8.5px;
+  min-width: 67px;
+  padding: 3.5px 8.2px;
+}
+.desktop-3 .overlap-group10 {
+  align-self: flex-end;
+  height: 132px;
+  margin-top: 8px;
+  position: relative;
+  width: 343px;
+}
+.desktop-3 .overlap-group11 {
+  height: 25px;
+  margin-left: 74.8px;
+  margin-top: 13px;
+  position: relative;
+  width: 538px;
+}
+.desktop-3 .overlap-group12 {
+  height: 25px;
+  margin-right: 4px;
+  margin-top: 12px;
+  position: relative;
+  width: 211px;
+}
+.desktop-3 .overlap-group13 {
+  height: 29px;
+  position: relative;
+  width: 226px;
+}
+.desktop-3 .overlap-group14 {
+  background-color: var(--black-haze);
+  box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.25);
+  height: 70px;
+  position: relative;
+  width: 1440px;
+}
+.desktop-3 .overlap-group15 {
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 700px;
+}
+.desktop-3 .overlap-group16 {
+  height: 131px;
+  left: 31px;
+  position: absolute;
+  top: 66px;
+  width: 371px;
+}
+.desktop-3 .overlap-group17 {
+  align-self: flex-end;
+  height: 160px;
+  position: relative;
+  width: 326px;
+}
+.desktop-3 .overlap-group18 {
+  height: 33px;
+  margin-left: 80.56px;
+  margin-top: 35px;
+  position: relative;
+  width: 703px;
+}
+.desktop-3 .overlap-group19 {
+  height: 387px;
+  position: relative;
+  width: 654px;
+}
+.desktop-3 .overlap-group2 {
+  height: 13px;
+  margin-bottom: -0.08px;
+  position: relative;
+  width: 14px;
+}
+.desktop-3 .overlap-group2-1 {
+  height: 77px;
+  margin-left: -4px;
+  margin-top: -0.09px;
+  position: relative;
+  width: 67px;
+}
+.desktop-3 .overlap-group2-2 {
+  height: 56px;
+  position: relative;
+  width: 154px;
+}
+.desktop-3 .overlap-group2-3 {
+  height: 132px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 129px;
+}
+.desktop-3 .overlap-group2-4 {
+  height: 72px;
+  position: relative;
+  width: 166px;
+}
+.desktop-3 .overlap-group2-5 {
+  height: 6px;
+  position: relative;
+  width: 8px;
+}
+.desktop-3 .overlap-group2-6 {
+  height: 9px;
+  margin-left: -1px;
+  margin-top: -1.19px;
+  position: relative;
+  width: 10px;
+}
+.desktop-3 .overlap-group20 {
+  height: 1490px;
+  margin-left: 50px;
+  margin-top: 50px;
+  position: relative;
+  width: 1118px;
+}
+.desktop-3 .overlap-group21 {
+  height: 197px;
+  margin-left: 67px;
+  margin-top: 64px;
+  position: relative;
+  width: 443px;
+}
+.desktop-3 .overlap-group22 {
+  height: 32px;
+  margin-left: 101.96px;
+  margin-top: 26px;
+  position: relative;
+  width: 700px;
+}
+.desktop-3 .overlap-group3 {
+  height: 24px;
+  margin-bottom: -0px;
+  position: relative;
+  width: 25px;
+}
+.desktop-3 .overlap-group3-1 {
+  height: 87px;
+  margin-left: -4px;
+  margin-top: -0.59px;
+  position: relative;
+  width: 67px;
+}
+.desktop-3 .overlap-group3-2 {
+  height: 51px;
+  position: relative;
+  width: 309px;
+}
+.desktop-3 .overlap-group3-3 {
+  height: 12px;
+  margin-top: -1.58px;
+  position: relative;
+  width: 12px;
+}
+.desktop-3 .overlap-group3-4 {
+  height: 25px;
+  position: relative;
+  width: 121px;
+}
+.desktop-3 .overlap-group3-5 {
+  height: 36px;
+  position: relative;
+  width: 234px;
+}
+.desktop-3 .overlap-group3-6 {
+  height: 10px;
+  margin-top: -1.56px;
+  position: relative;
+  width: 10px;
+}
+.desktop-3 .overlap-group4 {
+  height: 95px;
+  margin-top: -2px;
+  position: relative;
+  width: 600px;
+}
+.desktop-3 .overlap-group4-1 {
+  height: 58px;
+  position: relative;
+  width: 139px;
+}
+.desktop-3 .overlap-group4-2 {
+  height: 24px;
+  margin-bottom: 1px;
+  margin-left: 37px;
+  position: relative;
+  width: 139px;
+}
+.desktop-3 .overlap-group4-3 {
+  height: 40px;
+  position: relative;
+  width: 317px;
+}
+.desktop-3 .overlap-group5 {
+  height: 12px;
+  margin-top: -1.58px;
+  position: relative;
+  width: 11px;
+}
+.desktop-3 .overlap-group5-1 {
+  height: 76px;
+  margin-left: -4px;
+  margin-top: -0.59px;
+  position: relative;
+  width: 63px;
+}
+.desktop-3 .overlap-group5-2 {
+  align-self: flex-end;
+  height: 81px;
+  margin-right: 4px;
+  margin-top: 32px;
+  position: relative;
+  width: 259px;
+}
+.desktop-3 .overlap-group6 {
+  height: 74px;
+  margin-left: -4px;
+  margin-top: -0.59px;
+  position: relative;
+  width: 65px;
+}
+.desktop-3 .overlap-group6-1 {
+  align-self: flex-end;
+  height: 86px;
+  margin-right: 1px;
+  margin-top: 35px;
+  position: relative;
+  width: 262px;
+}
+.desktop-3 .overlap-group7 {
+  height: 73px;
+  margin-left: -4px;
+  margin-top: -0.09px;
+  position: relative;
+  width: 63px;
+}
+.desktop-3 .overlap-group7-1 {
+  align-self: flex-end;
+  height: 76px;
+  margin-top: 53px;
+  position: relative;
+  width: 263px;
+}
+.desktop-3 .overlap-group8 {
+  height: 76px;
+  margin-left: -4px;
+  margin-top: -0.59px;
+  position: relative;
+  width: 67px;
+}
+.desktop-3 .overlap-group9 {
+  height: 80px;
+  margin-left: -4px;
+  margin-top: -0.59px;
+  position: relative;
+  width: 66px;
+}
+.desktop-3 .place {
+  color: rgba(0, 148, 246, 0.4);
+  font-family: "Volkhov", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 14px;
+  left: 609px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 296px;
+  width: 38px;
+}
+.desktop-3 .post-follower {
+  align-items: center;
+  display: flex;
+  height: 31px;
+  left: 0px;
+  min-width: 326px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .post-follower-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  left: 8px;
+  min-width: 335px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .post-igtv-saved-tag {
+  align-items: center;
+  display: flex;
+  height: 31px;
+  left: 256px;
+  min-width: 293px;
+  position: absolute;
+  top: 3px;
+}
+.desktop-3 .post-igtv-saved-tag-1 {
+  align-items: center;
+  display: flex;
+  height: 25px;
+  left: 196px;
+  min-width: 237px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .posts {
+  align-items: center;
+  display: flex;
+  height: 29px;
+  left: 255px;
+  min-width: 55px;
+  position: absolute;
+  top: 3px;
+}
+.desktop-3 .posts-1 {
+  color: rgba(3, 3, 3, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 11px;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0px;
+  margin-left: 3px;
+  min-height: 29px;
+  text-align: center;
+  width: 40px;
+}
+.desktop-3 .posts-2 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  min-width: 54px;
+}
+.desktop-3 .posts-3 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  min-width: 51px;
+}
+.desktop-3 .posts-4 {
+  color: rgba(3, 3, 3, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 11px;
+  font-weight: 700;
+  height: 23px;
+  letter-spacing: 0px;
+  margin-left: 2px;
+  min-height: 23px;
+  text-align: center;
+  width: 40px;
+}
+.desktop-3 .pro-name-fashion {
+  color: var(--black);
+  font-family: "Volkhov", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  height: 26px;
+  left: 48px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 106px;
+}
+.desktop-3 .profile-img {
+  height: 72px;
+  margin-top: 2px;
+  width: 71px;
+}
+.desktop-3 .profile-img-1 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  margin-top: 21px;
+  min-width: 70px;
+}
+.desktop-3 .proggramer {
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 111px;
+}
+.desktop-3 .reading-art {
+  font-family: "Volkhov", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  height: 37px;
+  left: 2px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 73px;
+  width: 96px;
+}
+.desktop-3 .rectangle-10 {
+  background-color: rgba(8, 109, 0, 1);
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.desktop-3 .rectangle-10-1 {
+  background-color: rgba(8, 109, 0, 1);
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+.desktop-3 .rectangle-11 {
+  background-color: rgba(249, 225, 7, 1);
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+.desktop-3 .rectangle-11-1 {
+  background-color: rgba(249, 225, 7, 1);
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 11px;
+}
+.desktop-3 .rectangle-12 {
+  background-color: rgba(248, 10, 10, 1);
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 8px;
+}
+.desktop-3 .rectangle-12-1 {
+  background-color: rgba(248, 10, 10, 1);
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+.desktop-3 .rectangle-13 {
+  height: 173px;
+  object-fit: cover;
+  width: 164px;
+}
+.desktop-3 .rectangle-13-1 {
+  height: 223px;
+  object-fit: cover;
+  width: 213px;
+}
+.desktop-3 .rectangle-14 {
+  height: 223px;
+  margin-left: 29px;
+  object-fit: cover;
+  width: 214px;
+}
+.desktop-3 .rectangle-14-1 {
+  height: 223px;
+  object-fit: cover;
+  width: 215px;
+}
+.desktop-3 .rectangle-14-2 {
+  height: 173px;
+  margin-left: 23px;
+  object-fit: cover;
+  width: 164px;
+}
+.desktop-3 .rectangle-15 {
+  height: 223px;
+  margin-left: 29px;
+  object-fit: cover;
+  width: 213px;
+}
+.desktop-3 .rectangle-15-1 {
+  height: 223px;
+  margin-left: 8px;
+  object-fit: cover;
+  width: 214px;
+}
+.desktop-3 .rectangle-15-2 {
+  height: 173px;
+  margin-left: 22px;
+  object-fit: cover;
+  width: 164px;
+}
+.desktop-3 .rectangle-16 {
+  align-self: flex-end;
+  height: 222px;
+  width: 213px;
+}
+.desktop-3 .rectangle-16-1 {
+  height: 222px;
+  margin-top: 37px;
+  width: 213px;
+}
+.desktop-3 .rectangle-17 {
+  height: 222px;
+  margin-left: 29px;
+  object-fit: cover;
+  width: 214px;
+}
+.desktop-3 .rectangle-17-1 {
+  height: 222px;
+  margin-top: 35px;
+  object-fit: cover;
+  width: 215px;
+}
+.desktop-3 .rectangle-18 {
+  height: 222px;
+  margin-left: 21px;
+  object-fit: cover;
+  width: 213px;
+}
+.desktop-3 .rectangle-18-1 {
+  height: 222px;
+  margin-right: 8px;
+  margin-top: 35px;
+  object-fit: cover;
+  width: 214px;
+}
+.desktop-3 .rectangle-19 {
+  background-color: var(--mist-gray);
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.desktop-3 .rectangle-19-1 {
+  background-color: var(--mist-gray);
+  height: 10px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+.desktop-3 .rectangle-2 {
+  height: 30px;
+  left: 67px;
+  position: absolute;
+  top: 30px;
+  width: 210px;
+}
+.desktop-3 .rectangle-2-1 {
+  height: 30px;
+  margin-top: 1px;
+  width: 210px;
+}
+.desktop-3 .rectangle-20 {
+  background-color: var(--gallery);
+  height: 683px;
+  left: 39px;
+  position: absolute;
+  top: 42px;
+  width: 603px;
+}
+.desktop-3 .rectangle-23 {
+  background-color: var(--gallery);
+  height: 683px;
+  left: 39px;
+  position: absolute;
+  top: 748px;
+  width: 603px;
+}
+.desktop-3 .rectangle-25 {
+  height: 387px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+.desktop-3 .rectangle-26 {
+  background-color: var(--gallery);
+  height: 387px;
+  left: 301px;
+  position: absolute;
+  top: 0px;
+  width: 352px;
+}
+.desktop-3 .rectangle-4 {
+  background-color: var(--gallery);
+  box-shadow: 3px 2px 1px rgba(11, 11, 11, 0.25);
+  height: 84px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+.desktop-3 .rectangle-5 {
+  background-color: rgba(240, 230, 230, 1);
+  height: 23px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.desktop-3 .rectangle-6 {
+  background-color: var(--black-haze);
+  box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.25);
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.desktop-3 .rectangle-7 {
+  height: 30px;
+  left: 22px;
+  position: absolute;
+  top: 29px;
+  width: 210px;
+}
+.desktop-3 .rectangle-7-1 {
+  align-self: flex-end;
+  height: 30px;
+  width: 210px;
+}
+.desktop-3 .rectangle-8 {
+  background-color: rgba(243, 243, 243, 1);
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+  height: 23px;
+  left: 122px;
+  position: absolute;
+  top: 2px;
+  width: 88px;
+}
+.desktop-3 .rectangle-8-1 {
+  background-color: rgba(243, 243, 243, 1);
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+  height: 28px;
+  left: 107px;
+  position: absolute;
+  top: 4px;
+  width: 107px;
+}
+.desktop-3 .right-side-disc {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  display: flex;
+  height: 661px;
+  left: 648px;
+  min-width: 470px;
+  padding: 26.9px 9px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .right-side-img {
+  align-items: center;
+  display: flex;
+  margin-left: 10.17px;
+  min-width: 159px;
+}
+.desktop-3 .right-side-img-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 9.33px;
+  margin-top: 13px;
+  min-width: 227px;
+}
+.desktop-3 .right-side-img-2 {
+  align-items: center;
+  display: flex;
+  height: 72px;
+  left: 0px;
+  min-width: 247px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .right-side-img-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 71px;
+  left: 0px;
+  min-width: 205px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .right-side-img-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 68px;
+  left: 0px;
+  min-width: 223px;
+  position: absolute;
+  top: 0px;
+}
+.desktop-3 .right-side-img-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 311px;
+  min-width: 121px;
+  position: absolute;
+  top: 7px;
+}
+.desktop-3 .right-side-img-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  left: 313px;
+  min-width: 319px;
+  position: absolute;
+  top: 59px;
+}
+.desktop-3 .saved {
+  height: 29px;
+  left: 418px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 41px;
+}
+.desktop-3 .saved-1 {
+  height: 29px;
+  letter-spacing: 0px;
+  margin-left: 6px;
+  margin-top: 0.09px;
+  min-height: 29px;
+  text-align: center;
+  width: 41px;
+}
+.desktop-3 .saved-2 {
+  height: 22px;
+  letter-spacing: 0px;
+  margin-bottom: 1px;
+  margin-left: 6px;
+  min-height: 22px;
+  text-align: center;
+  width: 40px;
+}
+.desktop-3 .search {
+  align-items: flex-end;
+  display: flex;
+  height: 14px;
+  overflow: hidden;
+  padding: 0 0.2px;
+  width: 15px;
+}
+.desktop-3 .search-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 14px;
+  padding: 0.2px 0.1px;
+  width: 14px;
+}
+.desktop-3 .search-2 {
+  height: 11px;
+  letter-spacing: 0px;
+  margin-left: 10px;
+  margin-top: 1px;
+  min-height: 11px;
+  text-align: center;
+  width: 83px;
+}
+.desktop-3 .search-3 {
+  height: 11px;
+  letter-spacing: 0px;
+  margin-left: 8px;
+  margin-top: 0.77px;
+  min-height: 11px;
+  text-align: center;
+  width: 86px;
+}
+.desktop-3 .second-like-com {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 59px;
+  min-width: 271px;
+  position: absolute;
+  top: 1327px;
+}
+.desktop-3 .second-profile-name {
+  align-items: center;
+  display: flex;
+  height: 58px;
+  left: 58px;
+  min-width: 544px;
+  position: absolute;
+  top: 764px;
+}
+.desktop-3 .see-all {
+  font-family: "Volkhov", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 52px;
+  letter-spacing: 0px;
+  margin-top: 44px;
+  min-height: 52px;
+  text-align: center;
+  width: 69px;
+}
+.desktop-3 .send {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 20px;
+  margin-left: 9px;
+  overflow: hidden;
+  padding: 0.2px 0;
+  width: 21px;
+}
+.desktop-3 .send-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 22px;
+  margin-bottom: 0.27px;
+  margin-left: 12px;
+  overflow: hidden;
+  padding: 0.2px 0;
+  width: 21px;
+}
+.desktop-3 .send-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 15px;
+  margin-bottom: 0px;
+  margin-left: 13px;
+  overflow: hidden;
+  padding: 0 0.1px;
+  width: 18px;
+}
+.desktop-3 .settings {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  left: 348px;
+  overflow: hidden;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+.desktop-3 .settings-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  left: 115px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.desktop-3 .settings-2 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 31px;
+  margin-top: 2px;
+  overflow: hidden;
+  width: 30px;
+}
+.desktop-3 .span {
+  color: rgba(114, 105, 105, 1);
+}
+.desktop-3 .span-1 {
+  color: rgba(18, 4, 4, 1);
+}
+.desktop-3 .span0 {
+  color: rgba(27, 10, 10, 1);
+}
+.desktop-3 .span0-1 {
+  color: rgba(87, 80, 80, 1);
+}
+.desktop-3 .span1 {
+  color: rgba(95, 78, 78, 1);
+}
+.desktop-3 .span1-1 {
+  color: rgba(0, 0, 0, 1);
+}
+.desktop-3 .star-1 {
+  height: 3px;
+  left: 3px;
+  position: absolute;
+  top: 1px;
+  width: 3px;
+}
+.desktop-3 .star-1-1 {
+  height: 3px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+.desktop-3 .suggestions-for-you {
+  color: rgba(105, 104, 104, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 52px;
+  letter-spacing: 0px;
+  margin-top: 25px;
+  min-height: 52px;
+  text-align: center;
+  width: 202px;
+}
+.desktop-3 .switch {
+  height: 52px;
+  letter-spacing: 0px;
+  margin-left: 1px;
+  min-height: 52px;
+  text-align: center;
+  width: 69px;
+}
+.desktop-3 .tag-people {
+  align-items: flex-start;
+  display: flex;
+  height: 72px;
+  left: 348px;
+  min-width: 164px;
+  position: absolute;
+  top: 98px;
+}
+.desktop-3 .tagged {
+  height: 29px;
+  left: 496px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 50px;
+}
+.desktop-3 .tagged-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  justify-content: center;
+  left: 481px;
+  min-width: 9px;
+  position: absolute;
+  top: 12px;
+}
+.desktop-3 .tagged-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  justify-content: center;
+  margin-bottom: 2.35px;
+  margin-left: 20px;
+  min-width: 9px;
+}
+.desktop-3 .tagged-3 {
+  height: 29px;
+  letter-spacing: 0px;
+  margin-left: 7px;
+  margin-top: 0.09px;
+  min-height: 29px;
+  text-align: center;
+  width: 51px;
+}
+.desktop-3 .tagged-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 7px;
+  justify-content: center;
+  margin-left: 5px;
+  margin-top: 0.49px;
+  min-width: 7px;
+}
+.desktop-3 .tagged-5 {
+  align-self: flex-start;
+  height: 22px;
+  letter-spacing: 0px;
+  margin-left: 10px;
+  min-height: 22px;
+  text-align: center;
+  width: 48px;
+}
+.desktop-3 .text-1 {
+  color: var(--black);
+  font-family: "Volkhov", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 610px;
+}
+.desktop-3 .text-2 {
+  color: transparent;
+  font-family: "Volkhov", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 36px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 0px;
+  width: 273px;
+}
+.desktop-3 .text-3 {
+  color: var(--black);
+  font-family: "Volkhov", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 36px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 205px;
+}
+.desktop-3 .text-4 {
+  height: 37px;
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 371px;
+}
+.desktop-3 .text-5 {
+  align-self: center;
+  color: transparent;
+  font-family: "Volkhov", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  margin-left: 3px;
+  margin-top: 0.33px;
+  min-height: 14px;
+  width: 171px;
+}
+.desktop-3 .text-6 {
+  color: transparent;
+  font-family: "Volkhov", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 36px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 0px;
+  width: 281px;
+}
+.desktop-3 .top-larg-img {
+  height: 422px;
+  margin-top: 325px;
+  width: 609px;
+}
+.desktop-3 .tv {
+  align-items: flex-start;
+  display: flex;
+  height: 10px;
+  left: 333px;
+  overflow: hidden;
+  position: absolute;
+  top: 12px;
+  width: 10px;
+}
+.desktop-3 .tv-1 {
+  left: unset;
+  margin-bottom: 2.91px;
+  margin-left: 24px;
+  position: unset;
+  top: unset;
+}
+.desktop-3 .tv-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 7px;
+  margin-left: 9px;
+  overflow: hidden;
+  width: 8px;
+}
+.desktop-3 .uxui {
+  height: 41px;
+  left: 8px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 48px;
+}
+.desktop-3 .uxui-1 {
+  height: 39px;
+  left: 14px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 40px;
+}
+.desktop-3 .uxui-2 {
+  height: 20px;
+  left: 14px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  width: 40px;
+}
+.desktop-3 .uxui-3 {
+  height: 22px;
+  left: 14px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  width: 41px;
+}
+.desktop-3 .vector {
+  height: 31px;
+  left: 777px;
+  position: absolute;
+  top: 29px;
+  width: 31px;
+}
+.desktop-3 .vector-1 {
+  height: 15px;
+  width: 10px;
+}
+.desktop-3 .vector-10 {
+  height: 5px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.desktop-3 .vector-11 {
+  height: 8px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 9px;
+}
+.desktop-3 .vector-12 {
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.desktop-3 .vector-13 {
+  height: 12px;
+  left: 402px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+.desktop-3 .vector-14 {
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+.desktop-3 .vector-15 {
+  height: 5px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+.desktop-3 .vector-16 {
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+.desktop-3 .vector-17 {
+  height: 6px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 6px;
+}
+.desktop-3 .vector-18 {
+  height: 31px;
+  margin-left: 28px;
+  margin-top: 2px;
+  width: 31px;
+}
+.desktop-3 .vector-19 {
+  height: 18px;
+  width: 21px;
+}
+.desktop-3 .vector-2 {
+  height: 23px;
+  margin-bottom: -0.81px;
+  width: 27px;
+}
+.desktop-3 .vector-20 {
+  height: 18px;
+  width: 19px;
+}
+.desktop-3 .vector-21 {
+  height: 12px;
+  left: 8px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.desktop-3 .vector-22 {
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+.desktop-3 .vector-23 {
+  align-self: flex-start;
+  height: 21px;
+  margin-left: 468px;
+  margin-top: -1px;
+  width: 18px;
+}
+.desktop-3 .vector-24 {
+  height: 19px;
+  width: 21px;
+}
+.desktop-3 .vector-25 {
+  height: 19px;
+  width: 18px;
+}
+.desktop-3 .vector-26 {
+  height: 13px;
+  left: 8px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.desktop-3 .vector-27 {
+  height: 21px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+.desktop-3 .vector-28 {
+  height: 21px;
+  margin-left: 463px;
+  margin-top: 0.26px;
+  width: 18px;
+}
+.desktop-3 .vector-29 {
+  height: 31px;
+  margin-left: 28px;
+  margin-top: 9px;
+  width: 31px;
+}
+.desktop-3 .vector-3 {
+  height: 22px;
+  left: 4px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-30.31deg);
+  width: 29px;
+}
+.desktop-3 .vector-30 {
+  height: 8px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 8px;
+}
+.desktop-3 .vector-31 {
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.desktop-3 .vector-32 {
+  height: 12px;
+  margin-bottom: 4.91px;
+  margin-left: 20px;
+  width: 12px;
+}
+.desktop-3 .vector-33 {
+  height: 4px;
+  left: 2px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+.desktop-3 .vector-34 {
+  height: 5px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+.desktop-3 .vector-35 {
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+.desktop-3 .vector-36 {
+  height: 14px;
+  width: 19px;
+}
+.desktop-3 .vector-37 {
+  height: 14px;
+  margin-left: 10px;
+  margin-top: -0.93px;
+  width: 17px;
+}
+.desktop-3 .vector-38 {
+  height: 10px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+.desktop-3 .vector-39 {
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+.desktop-3 .vector-4 {
+  height: 14px;
+  left: 14px;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-30.31deg);
+  width: 12px;
+}
+.desktop-3 .vector-40 {
+  height: 14px;
+  margin-left: 242px;
+  margin-top: -1.87px;
+  width: 13px;
+}
+.desktop-3 .vector-41 {
+  height: 31px;
+  margin-left: 28px;
+  margin-top: -1px;
+  width: 31px;
+}
+.desktop-3 .vector-42 {
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+.desktop-3 .vector-43 {
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.desktop-3 .vector-44 {
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 10px;
+}
+.desktop-3 .vector-45 {
+  height: 5px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+.desktop-3 .vector-46 {
+  height: 10px;
+  margin-bottom: 1px;
+  margin-left: 10px;
+  width: 9px;
+}
+.desktop-3 .vector-47 {
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+.desktop-3 .vector-48 {
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+.desktop-3 .vector-49 {
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+.desktop-3 .vector-5 {
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 6px;
+}
+.desktop-3 .vector-5-1 {
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 8px;
+}
+.desktop-3 .vector-6 {
+  height: 3px;
+  margin-left: 3px;
+  margin-top: 1px;
+  width: 8px;
+}
+.desktop-3 .vector-7 {
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.desktop-3 .vector-8 {
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 6px;
+}
+.desktop-3 .vector-9 {
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+.desktop-3 .x-boos {
+  height: 26px;
+  left: 111px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 55px;
+}
+.desktop-3 .x-ethio-book {
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 87px;
+}
+.desktop-3 .x2-larg-img {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 39px;
+  min-height: 1132px;
+  position: absolute;
+  top: 153px;
+  width: 612px;
+}
+.desktop-3 .x2nd-bottom-input {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 59px;
+  min-width: 564px;
+  position: absolute;
+  top: 1295px;
+}
+.desktop-3 .x3-dot {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 360px;
+  margin-top: 11px;
+  min-width: 25px;
+}
+.desktop-3 .x3-imgs {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 75px;
+  margin-top: 9px;
+  min-width: 537px;
+}
+.desktop-3 .x3dot-2nd {
+  align-items: flex-start;
+  display: flex;
+  height: 8px;
+  margin-bottom: 1.76px;
+  margin-left: 393px;
+  min-width: 25px;
+}
+.desktop-3 .x6-imgs {
+  align-items: flex-start;
+  display: flex;
+  height: 482px;
+  margin-left: 82px;
+  margin-top: 10px;
+  min-width: 701px;
+}
+.desktop-3 .x8-img {
+  align-items: flex-start;
+  display: flex;
+  height: 93px;
+  justify-content: center;
+  left: 44px;
+  min-width: 596px;
+  position: absolute;
+  top: 0px;
+}
+.volkhov-bold-asphalt-13px {
+  color: rgba(22, 11, 11, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-azure-radiance-13px {
+  color: var(--azure-radiance);
+  font-family: "Volkhov", Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-azure-radiance-18px {
+  color: var(--azure-radiance);
+  font-family: "Volkhov", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-black-12px {
+  color: black;
+  font-family: "Volkhov", Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-black-14px {
+  color: black;
+  font-family: "Volkhov", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-black-18px {
+  color: var(--black);
+  font-family: "Volkhov", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-gray-18px {
+  color: rgba(132, 130, 130, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-pink-swan-24px {
+  color: rgba(191, 182, 182, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-shady-lady-14px {
+  color: rgba(176, 169, 169, 1);
+  font-family: "Volkhov", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.volkhov-bold-silver-chalice-11px {
+  color: var(--silver-chalice);
+  font-family: "Volkhov", Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --azure-radiance: rgba(0, 149, 246, 1);
+  --black: rgba(7, 1, 1, 1);
+  --black-haze: rgba(246, 246, 246, 1);
+  --ebb: rgba(231, 226, 226, 1);
+  --gallery: rgba(242, 239, 239, 1);
+  --mist-gray: rgba(196, 196, 196, 1);
+  --oil: rgba(39, 29, 29, 0.81);
+  --silver-chalice: rgba(172, 172, 172, 1);
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
